@@ -27,8 +27,8 @@
 	<system:String x:Key="AddDrive.Drive">Drive</system:String>
 
 	<!--  Add New Storage  -->
-	<system:String x:Key="AddDrive.Network">Network</system:String>
-	<system:String x:Key="AddDrive.ReadOnly">Read-only</system:String>
+	<system:String x:Key="AddDrive.Network">Rețea</system:String>
+	<system:String x:Key="AddDrive.ReadOnly">Doar citire</system:String>
 	<system:String x:Key="AddDrive.MountAtBoot">Reconectați-vă la logare</system:String>
 	<system:String x:Key="AddDrive.AuthAtConnect">Conectați-vă folosind credențiale diferite</system:String>
 	<system:String x:Key="AddDrive.Account">Cont</system:String>
@@ -39,9 +39,9 @@
 	<system:String x:Key="AddDrive.Port">Port</system:String>
 	<system:String x:Key="AddDrive.Device">Dispozitiv</system:String>
 	<system:String x:Key="AddDrive.PrivateKey">Cheie privată</system:String>
-	<system:String x:Key="AddDrive.Charset">Charset</system:String>
+	<system:String x:Key="AddDrive.Charset">Set caractere</system:String>
 	<system:String x:Key="AddDrive.TransferMode">Mod transfer</system:String>
-	<system:String x:Key="AddDrive.Encryption">Encriptare</system:String>
+	<system:String x:Key="AddDrive.Encryption">Criptare</system:String>
 
 	<system:String x:Key="Vailidation.Volume">Introduceți o etichetă de volum validă</system:String>
 	<system:String x:Key="Vailidation.VolumeExist">Acest nume există deja</system:String>
@@ -56,7 +56,7 @@
 	<system:String x:Key="Vailidation.Password">Introduceți o parola</system:String>
 
 	<!--  Menu bar>Settings, account, volume  -->
-	<system:String x:Key="Vailidation.Hint.Volume">Etichetî de volum</system:String>
+	<system:String x:Key="Vailidation.Hint.Volume">Etichetă de volum</system:String>
 	<system:String x:Key="Vailidation.Hint.Address">host.example.com</system:String>
 	<system:String x:Key="Vailidation.Hint.Address.LocalDrive">folder</system:String>
 	<system:String x:Key="Vailidation.Hint.Username">utilizator</system:String>
@@ -105,7 +105,7 @@
 	<system:String x:Key="Message.NotReady.Driver">Driverul de dispozitiv nu este instalat pe sistem. Trebuie să reinstalați RaiDrive.</system:String>
 	<system:String x:Key="Message.NotSupport.Browser.Dropbox">Dropbox suportă Internet Explorer 10, 11. Este recomandat să instalați Internet Explorer 11.</system:String>
 	<system:String x:Key="Message.Connect.By">Connectat de RaiDrive</system:String>
-	<system:String x:Key="Message.Maximum.Drive">Pot fi create până la 8 diskuri în versiunea curentă</system:String>
+	<system:String x:Key="Message.Maximum.Drive">Pot fi create până la 8 discuri în versiunea curentă</system:String>
 	<system:String x:Key="Message.License.Expired">Licența ta a expirat. Trebuie să descărcați noua versiune. Apăsați OK pentru a face upgrade.</system:String>
 	<system:String x:Key="Message.License.NotReady">RaiDrive nu poate valida licența dumneavoastră.</system:String>
 	<system:String x:Key="Message.UnknownSpace">Spațiu necunoscut</system:String>
@@ -203,7 +203,7 @@
 	<system:String x:Key="Backup.LogTab.Left">Rămas</system:String>
 	<system:String x:Key="Backup.LogTab.File">Fișier</system:String>
 	<system:String x:Key="Backup.LogTab.Folder">Folder</system:String>
-	<system:String x:Key="Backup.LogTab.FollowLatest">urmarețte ultimele</system:String>
+	<system:String x:Key="Backup.LogTab.FollowLatest">urmărește ultimele</system:String>
 	<system:String x:Key="Backup.Count.Left">Rămase</system:String>
 	<system:String x:Key="Backup.Count.Processed">Procesat</system:String>
 
